@@ -12,6 +12,8 @@ Has full range of alphabet and numbers
 A dot is equal to every impulse that is larger than 50 millis(0.05 sec) and smaller than 150 millis(0.15 sec)
 A line is equal to every impulse that is larger than 150 millis(0.15 sec)
 
+Use Display library: https://github.com/GeorgeAlex990/LCD.h
+
 My hardware:
   - Arduino Nano with CH340 USB 
   - A 5V active buzzer
